@@ -7,7 +7,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hola, soy Sergio</h1>
         <p className={styles.description}>
-            Soy desarrollador full-stack, se usar React, NodeJS, django y otros frameworks. Contactame 
+            Soy desarrollador full-stack, se usar React, NodeJS, django y otros frameworks. 
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contactame
