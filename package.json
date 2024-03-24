@@ -5,7 +5,7 @@
   "type": "module",
   "homepage": "https://hoid14.github.io/react-portfolio",
   "scripts": {
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
