@@ -2,17 +2,15 @@
   {
     "role": "Estudiante de ingenieria de sistemas e informatica",
     "organisation": "Universidad Nacional de Colombia sede Medellin",
-    "startDate": "2017",
-    "endDate": "2025",
+    "startDate": "2017 - 2025",
     "experiences": [],
     "imageSrc": "history/nacional.png",
     "link": null
   },
   {
-    "role": "5 courses: Web Design for Everybody: Basics of Web Development & Coding",
+    "role": "5 courses specialization: Web Design for Everybody: Basics of Web Development & Coding",
     "organisation": "Coursera",
     "startDate": "2023",
-    "endDate": "",
     "experiences": [
       "Introduction to HML5", 
       "Introduction to CSS3", 
@@ -23,23 +21,21 @@
     "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/H3DVXQ72HZQL"
   },
   {
-    "role": "Introductotion to Data Science in Python",
-    "organisation": "Coursera",
-    "startDate": "2022",
-    "endDate": "",
-    "experiences": [],
-    "imageSrc": "history/coursera.png",
-    "link": "https://www.coursera.org/account/accomplishments/certificate/7YTWYXKTDRPJ"
-  },
-  {
     "role": "Proficiency Achievement certificate",
     "organisation": "Voxy",
     "startDate": "2023",
-    "endDate": "",
     "experiences": [
       "B2 certificate"
     ],
     "imageSrc": "history/voxy.png",
     "link": "https://app.voxy.com/certificates/proficiency-test/64c40169cf5fc0ff17c99b75/"
+  },
+  {
+    "role": "Introductotion to Data Science in Python",
+    "organisation": "Coursera",
+    "startDate": "2022",
+    "experiences": [],
+    "imageSrc": "history/coursera.png",
+    "link": "https://www.coursera.org/account/accomplishments/certificate/7YTWYXKTDRPJ"
   }
 ]
