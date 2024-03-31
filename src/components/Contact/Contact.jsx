@@ -5,24 +5,24 @@ export const Contact = () => {
   return (
     <footer id="contact" className={styles.container}>
       <div className={styles.text}>
-        <h2>Contact</h2>
-        <p>Feel free to reach out!</p>
+        <h2>Contacto</h2>
+        <p>No dudes en comunicarte!</p>
       </div>
       <ul className={styles.links}>
-        <li className={styles.link}>
+        {/* <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
           <a href="mailto:myemail@email.com">myemail@email.com</a>
-        </li>
+        </li> */}
         <li className={styles.link}>
           <img
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           />
-          <a href="https://www.linkedin.com/myname">linkedin.com/myname</a>
+          <a href="https://www.linkedin.com/in/sergio-andres-arias-jimenez-54832425b/">linkedin.com/sergio-arias</a>
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://www.github.com/myname">github.com/myname</a>
+          <a href="https://github.com/Hoid14">github.com/sergio-arias</a>
         </li>
       </ul>
     </footer>
