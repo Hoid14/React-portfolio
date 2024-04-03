@@ -89,7 +89,14 @@
 }
 .historyItemDetails h2{
   margin-top: 20px;
+  border-radius: 10px;
+  border: none;
+  display: inline-block;
 }
+.historyItemDetails h2:hover {
+  background-color: rgba(25, 55, 109, 1);
+}
+
 .historyItemDetails h2 a{
   text-decoration: none;
   font-size: 30px;
