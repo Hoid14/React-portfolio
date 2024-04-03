@@ -18,7 +18,7 @@
   {
     "title": "Ecommerce website",
     "imageSrc": "projects/ecommerce.png",
-    "description": "Sitio web de Ecommerce con funcionalidad de agregar y remover items del carrito, el cual usa localstorage para el guardado.",
+    "description": "Sitio web de Ecommerce con funcionalidad de agregar y remover items del carrito, el cual usa localstorage para el almacenamiento.",
     "skills": ["React", "HTML","CSS", "Javascript"],
     "demo": "https://react-ecommerce-hoid.netlify.app/",
     "source": "https://github.com/Hoid14/react-ecommerce"
