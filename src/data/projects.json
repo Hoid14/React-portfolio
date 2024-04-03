@@ -16,6 +16,14 @@
     "source": "https://github.com/Hoid14/react-movie-website"
   },
   {
+    "title": "Ecommerce website",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "Sitio web de Ecommerce con funcionalidad de agregar y remover items del carrito, el cual usa localstorage para el guardado.",
+    "skills": ["React", "HTML","CSS", "Javascript"],
+    "demo": "https://react-ecommerce-hoid.netlify.app/",
+    "source": "https://github.com/Hoid14/react-ecommerce"
+  },
+  {
     "title": "Memory card pokemon",
     "imageSrc": "projects/memory-card-pokemon.png",
     "description": "Juego de encontrar coincidencias pokemon. Por medio de javascript manejo la logica del juego.",
