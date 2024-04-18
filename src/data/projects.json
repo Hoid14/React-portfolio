@@ -30,5 +30,13 @@
     "skills": ["HTML", "CSS", "Javascript"],
     "demo": "https://javascript-memory-pokemon-game.netlify.app/",
     "source": "https://github.com/Hoid14/javascript-memory-card"
+  },
+  {
+    "title": "Sitio web de notas",
+    "imageSrc": "projects/notas.png",
+    "description": "Sitio web de creacion de notas con registro de usuario y autenticacion por medio de JSON web Tokens, tiene backend hecho con django, el cual esta desplegado en Render.com",
+    "skills": ["Django", "Python", "React", "HTML","CSS","Javascript"],
+    "demo": "https://react-app-notes.netlify.app",
+    "source": "https://github.com/Hoid14/react-django-app"
   }
 ]
